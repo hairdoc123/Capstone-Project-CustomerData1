@@ -154,9 +154,12 @@ Group By Canceled;
 ### Data Visualization
 
 
-
 ![CustomerData Pivot](https://github.com/user-attachments/assets/07218ec1-d882-4e4c-993d-cc93a0060f9c)
 
+
+
+
+![CustomerData PowerBI](https://github.com/user-attachments/assets/16def6e6-39ba-49d9-a42c-2d2f1e79d976)
 
 
 
