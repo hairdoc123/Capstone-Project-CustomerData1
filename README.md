@@ -4,21 +4,21 @@
 
 [PROJECT TOPIC](#projecttopic)
 
-[PROJECT OVERVIEW](projectoverview) 
+[PROJECT OVERVIEW](#projectoverview) 
 
-[COLUMN DESCRIPTION](columndescription)
+[COLUMN DESCRIPTION](#columndescription)
 
-[DATA SOURCES](datasource)
+[DATA SOURCES](#datasource)
 
-[TOOLS USED](toolsused)
+[TOOLS USED](#toolsused)
 
-[DATA CLEANING AND PREPARATION](datacleaningandpreparation)
+[DATA CLEANING AND PREPARATION](#datacleaningandpreparation)
 
-[EXPLORATORY DATA ANALYSIS (EDA)](exploratorydataanalysis)
+[EXPLORATORY DATA ANALYSIS (EDA)](#exploratorydataanalysis)
 
-[DATA ANALYSIS](dataanalysis)
+[DATA ANALYSIS](#dataanalysis)
 
-[DATA VISUALIZATION](datavisualization)
+[DATA VISUALIZATION](#datavisualization)
 
 
 
