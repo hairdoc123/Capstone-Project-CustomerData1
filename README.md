@@ -26,6 +26,9 @@ This project overview provides insight into Customers subscription data, highlig
 
 The Data used was provided by Lita-Incubator-Hub for the purpose of Training and learning
 
+
+![CustomerData Pivot](https://github.com/user-attachments/assets/326a702d-3194-4737-932b-847b51438100)
+
 ### Tools Used
 
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -149,6 +152,12 @@ Group By Canceled;
 
 
 ### Data Visualization
+
+
+
+![CustomerData Pivot](https://github.com/user-attachments/assets/07218ec1-d882-4e4c-993d-cc93a0060f9c)
+
+
 
 
 
