@@ -1,5 +1,27 @@
  # Capstone-Project-CustomerData1
 
+### OUTLINE
+
+[PROJECT TOPIC](#projecttopic)
+
+[PROJECT OVERVIEW](projectoverview) 
+
+[COLUMN DESCRIPTION](columndescription)
+
+[DATA SOURCES](datasource)
+
+[TOOLS USED](toolsused)
+
+[DATA CLEANING AND PREPARATION](datacleaningandpreparation)
+
+[EXPLORATORY DATA ANALYSIS (EDA)](exploratorydataanalysis)
+
+[DATA ANALYSIS](dataanalysis)
+
+[DATA VISUALIZATION](datavisualization)
+
+
+
 ### Project Topic: Customer Analysis
 
 ### Project Overview
