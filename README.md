@@ -49,7 +49,8 @@ This project overview provides insight into Customers subscription data, highlig
 The Data used was provided by Lita-Incubator-Hub for the purpose of Training and learning
 
 
-![CustomerData Pivot](https://github.com/user-attachments/assets/326a702d-3194-4737-932b-847b51438100)
+![CustomerData Table](https://github.com/user-attachments/assets/1176cff4-5049-462e-9d20-e4ec1bd5e80d)
+
 
 ### Tools Used
 
