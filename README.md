@@ -184,6 +184,14 @@ Group By Canceled;
 ![CustomerData PowerBI](https://github.com/user-attachments/assets/16def6e6-39ba-49d9-a42c-2d2f1e79d976)
 
 
+### RECOMMENDATIONS
+
+As we can see that Basic subscription type has the highest Revenue (33776735), there is a need to focus more on Premium and Standard package, if possibe these two packages should be sold at a discounted rate.
+Eastern region has the highest sales revenue while sales are struggling in the west, south and Nortern region, this denots that a new marketing strategy has to be implemented in these regions with lesser sales
+
+
+
+
 
 
 
